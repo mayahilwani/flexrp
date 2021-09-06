@@ -1,0 +1,4 @@
+# FlexRP  
+# What is FlexRP?  
+FlexRP is a software that organizations use to manage day-to-day business activities such as accounting, procurement, personnel and inventory,
+and supply chain operations.
