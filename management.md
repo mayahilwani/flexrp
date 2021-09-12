@@ -102,3 +102,43 @@ Categories are stored as tables with the following fields:
   * Can be entered in multiple languages
 * Country
   * Number of items holding this brand 
+
+# Import Data
+* Employees 
+* Suppliers
+
+# Languages
+* ID 
+* Name
+* Display Name
+* Icon
+* Is Disabled
+
+# Currencies
+* Code
+* Symbol
+* Display Precision
+* Exchange Rate
+* Is Based Currency
+
+# Audit Log
+* ID
+* Username
+* Time
+* IP
+* Service
+* Method
+* Pass
+
+# Settings
+* [Application](##application)
+* [Users](##users)
+* [Tenant](##tenant)
+
+# Lookups
+* ID
+* Code
+* Name
+* Description
+* Color
+
