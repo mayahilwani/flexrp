@@ -1,4 +1,4 @@
-# Inventory Module
+# Procurement Module
 ### Sections:
 * [Dashboard](#dashboard)
 * [BOQs](#boqs)
