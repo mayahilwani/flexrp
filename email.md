@@ -1,38 +1,21 @@
-# Inventory Module
+# Email Module
 ### Sections:
-* [Stock Adjustments](#stock-adjustments)
-* [Warehouses](#warehouses)
-* [Items](#items)
-* [Units](#units)
-* [Categories](#categories)
+* [Inbox](#inbox)
+* [Sent](#sent)
+* [Trash](#trash)
+* [Accounts](#accounts)
 
-# Stock Adjustments
-* ID
-* Type
-* Modification Time
-* Notes
-* Status
+# Inbox
 
-# Warehouses
-* ID
-* Name
-* Location
-* Description
-* Status
+# Sent
 
-# Items
-* ID
-* Name
-* Part Number
-* Basic Unit
-* Description
+# Trash
 
-# Units
+# Accounts
 * ID 
-* Name
-
-# Categories
-* ID 
-* Name
-* Base Category
-* Last Modification Time
+* Userame
+* Incoming Server
+* Outgoing Server
+* Incoming Port
+* Outgoing Port
+* Incoming Protocol
