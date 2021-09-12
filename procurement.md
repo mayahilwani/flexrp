@@ -1,38 +1,56 @@
 # Inventory Module
 ### Sections:
-* [Stock Adjustments](#stock-adjustments)
-* [Warehouses](#warehouses)
-* [Items](#items)
-* [Units](#units)
-* [Categories](#categories)
+* [Dashboard](#dashboard)
+* [BOQs](#boqs)
+* [RFQs](#rfqs)
+* [Suppliers](#suppliers)
+* [Quotations](#quotations)
+* [POs](#pos)
 
-# Stock Adjustments
+# Dashboard
 * ID
 * Type
 * Modification Time
 * Notes
 * Status
 
-# Warehouses
+# BOQs
 * ID
-* Name
-* Location
-* Description
+* Code
+* Customer Name
+* Last Modification Time
 * Status
 
-# Items
+# RFQs
 * ID
-* Name
-* Part Number
-* Basic Unit
-* Description
-
-# Units
-* ID 
-* Name
-
-# Categories
-* ID 
-* Name
-* Base Category
+* Code
+* Supplier
+* Lines Count
+* Creation Time
 * Last Modification Time
+* Status
+
+# Suppliers
+* ID 
+* Name
+* Code
+* Company Name
+* Creation Time
+* Status
+
+# Quotations
+* ID 
+* Code
+* Supplier
+* Creation Time
+* Lines Count
+* Status
+
+# POs
+* ID
+* Code
+* Supplier
+* Lines Count
+* Creation Time
+* Last Modification Time
+* Status
